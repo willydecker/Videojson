@@ -1,6 +1,6 @@
 var ANCESTRY_FILE = "[\n  " + [
   '{"Title" : "Saints Row", "GenderofProtagongist": "Both", "LineofSight": "3rd person", "Genre": "Adventure", "ContainsMultiplayer": true, "ContainsViolence": true, "YearofRelease": 2006}',
-  '{"Title" : "Final Fantasy VII", "GenderofProtagongist": "M", "LineofSight": "3rd person", "Genre": "TPS", "ContainsMultiplayer": false", "ContainsViolence": true, "YearofRelease": 1997}',
+  '{"Title" : "Final Fantasy VII", "GenderofProtagongist": "M", "LineofSight": "3rd person", "Genre": "TPS", "ContainsMultiplayer": false, "ContainsViolence": true, "YearofRelease": 1997}',
   '{"Title" : "Final Fantasy XIII", "GenderofProtagongist": "F", "LineofSight": "3rd person", "Genre": "Adventure", "ContainsMultiplayer": false, "ContainsViolence": true, "YearofRelease": 2010}',
   '{"Title" : "Final Fantasy XIII-2", "GenderofProtagongist": "Both", "LineofSight": "3rd person", "Genre": "Adventure", "ContainsMultiplayer": false, "ContainsViolence": true, "YearofRelease": 2012}',
   '{"Title" : "Final Fantasy XIII-3", "GenderofProtagongist": "F", "LineofSight": "3rd person", "Genre": "Adventure", "ContainsMultiplayer": true, "ContainsViolence": true, "YearofRelease": 2014}',
