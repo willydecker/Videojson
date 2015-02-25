@@ -22,7 +22,7 @@ var ANCESTRY_FILE = "[\n  " + [
   '{"Title" : "Assassins Creed Revelations", "GenderofProtagongist": "M", "LineofSight": "3rd person", "Genre": "Adventure", "ContainsMultiplayer": true, "ContainsViolence": true, "YearofRelease": 2011}',
   '{"Title" : "Yakuza", "GenderofProtagongist": "M", "LineofSight": "3rd person", "Genre": "Adventure", "ContainsMultiplayer": false, "ContainsViolence": true, "YearofRelease": 2005}',
   '{"Title" : "Spyro", "GenderofProtagongist": "M", "LineofSight": "3rd person", "Genre": "Adventure", "ContainsMultiplayer": false, "ContainsViolence": true, "YearofRelease": 1998}',
-  '{"Title" : "Crash Bandicoot", "GenderofProtagongist": "M", "LineofSight": 3rd person, "Genre": "Adventure", "ContainsMultiplayer": false, "ContainsViolence": true, "YearofRelease": 1996}',
+  '{"Title" : "Crash Bandicoot", "GenderofProtagongist": "M", "LineofSight": "3rd person", "Genre": "Adventure", "ContainsMultiplayer": false, "ContainsViolence": true, "YearofRelease": 1996}',
   '{"Title" : "Need For Speed", "GenderofProtagongist": "Both", "LineofSight": "3rd person", "Genre": "Sports", "ContainsMultiplayer": true, "ContainsViolence": true, "YearofRelease": 1996}',
   '{"Title" : "Wipeout", "GenderofProtagongist": "Both", "LineofSight": "3rd person", "Genre": "Sports", "ContainsMultiplayer": true, "ContainsViolence": true, "YearofRelease": 1995}',
   '{"Title" : "Battlefield", "GenderofProtagongist": "M", "LineofSight": "1st person", "Genre": "FPS", "ContainsMultiplayer": true, "ContainsViolence": true, "YearofRelease": 2002}'
