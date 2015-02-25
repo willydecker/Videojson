@@ -9,7 +9,7 @@ function filter(array, test) {
   return passed;
 }
 
-console.log(filter(ancestry, function(person) {
-  return person.born > 1900 && person.born < 1925 ;
+console.log(filter(ancestry, function(game) {
+  return game.YearofRelease > 2000;
 }));
 
