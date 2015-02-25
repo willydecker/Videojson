@@ -9,3 +9,6 @@ Here is an example data set for the Saint's Row game.
 
 '{"Title" : "Saints Row", "GenderofProtagongist": "Both", "LineofSight": "3rd person", "Genre": "Adventure", "Contains Multiplayer": true, "Contains Violence": true, "Contains Creative Mode": true}',
 
+My filter-node filters which games came out after the year 2000.
+
+My oldest (couldnt figure out how to change it's name) maps the next year a sequel will be released for each game. 
