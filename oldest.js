@@ -12,5 +12,5 @@ var NextRelease = ancestry.filter(function(game) {
   return game.YearofRelease + 2;
 });
 console.log(map(NextRelease, function(game) {
-  return game.Title + " " + game.YearofRelease;
+  return "Next year a sequel is released: " + game.Title + " " + game.YearofRelease;
 }));
